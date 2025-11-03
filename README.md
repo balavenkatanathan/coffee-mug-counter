@@ -6,4 +6,4 @@ A fun computer vision project that uses YOLOv8 to detect mugs or cups in desk ph
 Upload an image of your workspace — the model finds all mugs and counts them.
 
 ### Run in Colab
-[![Open In Colab
+---> Open In Colab
